@@ -10,5 +10,4 @@
 
 
 ## Video 
-Video con la demostracion del funcionamiento de la solución
-- 
+- https://youtu.be/eMx0NT5TF7w
